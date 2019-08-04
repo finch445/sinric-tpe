@@ -2,6 +2,14 @@
 **ESP8266 integrate with Google Home**
 
 The sample code 
+## Arduino
+### Library List
+1. Arduino.h
+2. ESP8266WiFi.h
+3. ESP8266WiFiMulti.h
+4. WebSocketsClient.h
+5. ArduinoJson.h
+6. StreamString.h
 
 ## Circuit diagram
 ### ESP8266
