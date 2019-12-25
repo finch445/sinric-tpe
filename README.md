@@ -1,5 +1,4 @@
-# Sinric-TPE
-**ESP8266 integrate with Google Home**
+# ESP8266 integrating with Google Home
 
 The sample code 
 ## Arduino
