@@ -1,6 +1,5 @@
 # ESP8266 integrating with Google Home
-
-The sample code 
+The function of this project is to control IoT devices through Google Home or Google Assistant. For example, say "Turn on kitchen light" and other voice commands to control IoT devices. This project uses ESP-WROOM-02 as a home Internet of Things device. Moreover, using RGB LEDs, changing brightness and colors, to simulate commercially available LED smart bulbs.
 ## Arduino
 ### Library List
 1. Arduino.h
