@@ -16,8 +16,8 @@ WebSocketsClient webSocket;
 WiFiClient client;
 
 #define MyApiKey "c300f1c8-bc23-4f9f-9d0b-1515d5e2ec2a" // TODO: Change to your sinric API Key. Your API Key is displayed on sinric.com dashboard
-#define MySSID "William_wifi" // TODO: Change to your Wifi network SSID
-#define MyWifiPassword "nopassword" // TODO: Change to your Wifi network password
+#define MySSID "***********" // TODO: Change to your Wifi network SSID
+#define MyWifiPassword "***********" // TODO: Change to your Wifi network password
 
 #define HEARTBEAT_INTERVAL 300000 // 5 Minutes 
 
